@@ -4,7 +4,8 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/27ec1ade-2efb-4ea0-becb-efd245f03cd1" >
 
-<a href="https://linkdin.com/evoveo-tech" rel="nofollow"><img src="https://github.com/evoveotech/evoveotech/blob/main/Follow%20EvoVeoTech.jpg" alt="EvoVeoTech" data-canonical-src="https://img.shields.io/linkdin/follow/wvoveo-tech?logo=twitter&amp;style=for-the-badge" style="width: 20%;padding: 10px 0px 10px 0px;"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=evoveotech&label=Profile%20views&color=0e75b6&style=flat" alt="evoveotech" /> </p>
+<a href="https://linkdin.com/evoveo-tech" rel="nofollow"><img src="https://github.com/evoveotech/evoveotech/blob/main/Follow%20EvoVeoTech.jpg" alt="EvoVeoTech" data-canonical-src="https://img.shields.io/linkdin/follow/wvoveo-tech?logo=twitter&amp;style=for-the-badge" style="width: 16%; padding: 10px 0px 10px 0px;"></a>
 
 - 🔭 I’m currently working on **Microservices, CI/CD, Cloud & Automation**
 
