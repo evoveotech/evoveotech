@@ -4,6 +4,8 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/27ec1ade-2efb-4ea0-becb-efd245f03cd1" >
 
+<a href="https://linkdin.com/evoveo-tech" rel="nofollow"><img src="https://www.canva.com/design/DAHAQ7xS5Z4/cYnIh298hogxI9XiRGecqw/edit?utm_content=DAHAQ7xS5Z4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="EvoVeoTech" data-canonical-src="https://img.shields.io/linkdin/follow/wvoveo-tech?logo=twitter&amp;style=for-the-badge" style="max-width: 100%;"></a>
+
 - 🔭 I’m currently working on **Microservices, CI/CD, Cloud & Automation**
 
 - 👯 I’m looking to collaborate on **Scalable, Cloud & Automation Systems.**
